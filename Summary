@@ -1,0 +1,13 @@
+Summary: 
+    Elpis CRM is a web-based customer relationship management system built with an ASP.NET Core Web API backend and a React frontend.
+It provides comprehensive contact and deal management, task and meeting scheduling, notes, product catalogs, bulk import/export, and dashboard reporting — designed for easy deployment and extension.
+Use case: Ideal for small-to-medium businesses that need a lightweight, customizable CRM to track sales processes, customer interactions, and operational tasks.
+Key Features
+
+API-first:
+Layered Controllers → Services → EF Core AppDbContext.
+Contact & Deals: Full CRUD, relationships, and bulk operations.
+Tasks & Meetings: Scheduling, notes, and activity tracking.
+Import/Export: CSV/SQL utilities for data migration.
+Security: Authentication, password reset flows, environment-based configs.
+Dashboard & Forecasting: Targets and reporting endpoints.
